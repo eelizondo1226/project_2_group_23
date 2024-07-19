@@ -1,1 +1,2 @@
 # project_2_group_23
+For our group we managed to create the Data Base Diagram, create the tables in postgres, finished up the starter code provided, created querries for the tables in SQL, and provided visualizations for the data. Following all of the coding, we've also written a follow-up containing the analysis and exclamation for the the querries.
